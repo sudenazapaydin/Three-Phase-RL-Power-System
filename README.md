@@ -2,6 +2,8 @@
 
 MATLAB/Simulink based analysis of a three-phase RL power system under different operating conditions.
 
+Developed as part of a university group project.
+
 ## Project Overview
 
 This project investigates the behavior of a three-phase RL loaded power system under different simulation cases using MATLAB and Simulink.
