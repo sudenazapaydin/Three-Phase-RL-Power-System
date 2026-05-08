@@ -31,9 +31,5 @@ models_and_results/
 └── case_4
 
 parameters/
-│
-└── system_parameters.m
 
 report/
-│
-└── three_phase_rl_power_system_report_public.pdf
