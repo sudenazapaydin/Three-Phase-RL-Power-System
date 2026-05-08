@@ -21,14 +21,14 @@ Simulation results were analyzed using voltage, current, active power, reactive 
 ```text
 models_and_results/
 │
-├── base_system.slx
-├── case_1_1.slx
-├── case_1_2.slx
-├── case_1_3.slx
-├── case_2_1.slx
-├── case_2_2.slx
-├── case_3_1.slx
-└── case_4_1.slx
+├── base_system
+├── case_1_1
+├── case_1_2
+├── case_1_3
+├── case_2_1
+├── case_2_2
+├── case_3
+└── case_4
 
 parameters/
 │
